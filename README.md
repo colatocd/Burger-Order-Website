@@ -35,3 +35,5 @@ A secure web-based burger ordering platform where users can choose between two b
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/burger-order-website.git
+2. Configure your Stripe API keys and database settings.
+3. Run the project on a local server.
