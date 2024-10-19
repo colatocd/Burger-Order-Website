@@ -4,9 +4,13 @@ A secure web-based burger ordering platform where users can choose between two b
 
 Link to live website: https://www.cmsc508.com/~24SP_zeamanuelz/brgrs/login2.php
 
-TEST ACCOUNT: 
-- username
-- password
+TEST ACCOUNT (customer): 
+- username: username
+- password: password
+
+TEST ACCOUNT (admin):
+- username: test.admin
+- password: password
 
 ## Features
 
