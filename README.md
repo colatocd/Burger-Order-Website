@@ -4,6 +4,10 @@ A secure web-based burger ordering platform where users can choose between two b
 
 Link to live website: https://www.cmsc508.com/~24SP_zeamanuelz/brgrs/login2.php
 
+TEST ACCOUNT: 
+username
+password
+
 ## Features
 
 - **Burger Selection & Cart**: Choose between two burgers and add them to your cart.
